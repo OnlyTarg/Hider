@@ -1,7 +1,7 @@
 name: hider
 description: A Dart package providing a utility class for masking sensitive information in strings.
 repository: https://github.com/OnlyTarg/Hider
-version: 1.0.0
+version: 1.0.1
 
 
 environment:
